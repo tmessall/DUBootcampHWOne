@@ -16,3 +16,8 @@ Changes in index.html:
 
 Link:
 https://tmessall.github.io/dubootcampHWOne/
+
+Screenshots:
+![Top of the Page](./screenshots/top.png)
+![Middle of the Page](./screenshots/mid.png)
+![Bottom of the Pag](./screenshots/bot.png)
