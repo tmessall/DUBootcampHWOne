@@ -16,6 +16,7 @@ Changes in index.html:
 
 Changes made in style.css:
 1. Moved selectors and properties to follow semantic structure
+2. Added some comments to CSS to clean it up
 
 Link:
 https://tmessall.github.io/dubootcampHWOne/

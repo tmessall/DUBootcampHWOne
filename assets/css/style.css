@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Everything with header falls under here */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +42,7 @@ body {
     margin-left: 25px;
 }
 
+/* Creates a filler image between header and main */
 .hero {
     height: 800px;
     width: 100%;
@@ -50,12 +52,14 @@ body {
     background-position: center;
 }
 
+/* Creates the "bars" which discuss SEO, ORM, SSM */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Self-titled bar */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -65,6 +69,7 @@ body {
     color: #ffffff;
 }
 
+/* Self-titled bar */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -74,6 +79,7 @@ body {
     color: #ffffff;
 }
 
+/* Self-titled bar */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -110,6 +116,7 @@ body {
     max-height: 200px;
 }
 
+/* The float classes apply to the images inside the bars for positioning */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -120,6 +127,7 @@ body {
     margin-left: 25px;
 }
 
+/* This is the aside off to the right */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -179,6 +187,7 @@ body {
     max-width: 150px;
 }
 
+/* The pieces below cover the footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -190,6 +199,7 @@ body {
     font-size: 20px;
 }
 
+/* To apply to every a and p element in the application */
 a {
     color: #ffffff;
     text-decoration: none;
