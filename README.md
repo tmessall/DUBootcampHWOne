@@ -14,3 +14,5 @@ Changes:
 8. Added appropriate alt tags to images on lines 39 49 and 59
 9. Added appropriate alt tags to images on lines 73 81 and 89
 10. Changed the div tags inside of the new aside tag to be sections
+
+Link:
