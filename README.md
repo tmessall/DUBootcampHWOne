@@ -1,6 +1,6 @@
 dubootcampHWOne
 
-Changes:
+Changes in index.html:
 1. Changed lines 11 and 31 from div to header, added nav tag on lines 16 and 29 to reflect the links within
 2. Changed lines 34 and 57 from div to section
 3. Changed lines 59 and 82 from div to aside
@@ -12,6 +12,7 @@ Changes:
 9. Added appropriate alt tags to images on lines 73 81 and 89
 10. Changed the div tags inside of the new aside tag to be sections
 11. Added the title of Horiseon
+12. Added working links to lines 20-30
 
 Link:
 https://tmessall.github.io/dubootcampHWOne/
