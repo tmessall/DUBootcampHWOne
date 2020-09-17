@@ -14,6 +14,9 @@ Changes in index.html:
 11. Added the title of Horiseon
 12. Added working links to lines 20-30
 
+Changes made in style.css:
+1. Moved selectors and properties to follow semantic structure
+
 Link:
 https://tmessall.github.io/dubootcampHWOne/
 
