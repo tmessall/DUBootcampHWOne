@@ -10,3 +10,4 @@ Changes:
 4. Changed lines 84 and 90 from tiv to footer
 5. Changed line 33 from div to figure
 6. Revised change 2, made that a main tag instead of section
+7. Changed the div tags inside of the new main tag to be sections
